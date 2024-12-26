@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## Olá! Me chamo Sara.
 <div>
   <a href="https://github.com/saralmvr">
