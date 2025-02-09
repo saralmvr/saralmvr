@@ -4,7 +4,7 @@
 - 👩🏽‍💻 Exploring the tech world.
 
   <div>
-  ### 📊 Estatísticas
+### 📊 Estatísticas
 
 <p>
   <img 
