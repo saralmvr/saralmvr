@@ -1,4 +1,4 @@
-## <div align="center"> 👋🏽 Hi! I'm '@saralmvr' welcome to mey 'Github profile.' </div>
+## <div align="center"> 👋🏽 Hi! I'm '@saralmvr' welcome to my 'Github profile.' </div>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E3EDD2&width=435&lines=Hello+World!" alt="Typing SVG" /></a>
 - 🎓 Currently studying system development.
 - 👩🏽‍💻 Exploring the tech world.
