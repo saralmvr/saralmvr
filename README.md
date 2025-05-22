@@ -5,7 +5,7 @@
 
   <div>
   
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages & Technologies
 
 <img 
     align="left" 
@@ -40,7 +40,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br>
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
