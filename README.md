@@ -7,6 +7,6 @@
   
 ### Languages & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,nodejs,react,tailwind&theme=light)](https://skillicons.dev)
 
 </div>
